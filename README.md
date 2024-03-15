@@ -5,6 +5,7 @@ The Hangman program randomly selects a secret word from a list of secret words,w
 
 Team member-
 Parneet Kaur- Project Manager
+
 Amrit Kaur- Tester
 
 Instrutions-
