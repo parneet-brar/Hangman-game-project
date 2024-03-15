@@ -4,6 +4,7 @@ Python is one of the many open source object oriented programming application so
 The Hangman program randomly selects a secret word from a list of secret words,which the player has to guess with limited number of guesses.
 
 Team member-
+
 Parneet Kaur- Project Manager
 
 Amrit Kaur- Tester
